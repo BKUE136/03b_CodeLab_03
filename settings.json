@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "files.autoSave": "afterDelay",
+    "git.openRepositoryInParentFolders": "never",
+    "redhat.telemetry.enabled": true,
+    "hediet.vscode-drawio.resizeImages": null,
+    "launch": {
+        
+        "configurations": [],
+        "compounds": []
+    }
+}
